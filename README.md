@@ -1,4 +1,4 @@
-# Gestión de Tablas con Delta Lake en Databricks
+# Gestión de Tablas Delta Lake en Databricks
 
 ## Introducción
 
