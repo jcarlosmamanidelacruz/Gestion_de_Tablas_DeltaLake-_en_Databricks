@@ -1,5 +1,7 @@
 # Gestión de Tablas Delta Lake en Databricks
 
+[![Gestion-tablas-delta-lake.png](https://i.postimg.cc/J4HJx4B2/Gestion-tablas-delta-lake.png)](https://postimg.cc/3d7dJh1X)
+
 ## Introducción
 
 En este proyecto, exploraremos el uso de Delta Lake en Databricks para la gestión eficiente de tablas de datos estructurados. Delta Lake es una tecnología que extiende los Data Lakes tradicionales con características transaccionales ACID (Atomicidad, Consistencia, Aislamiento, Durabilidad), lo cual mejora significativamente la integridad y confiabilidad de los datos en entornos de big data.
